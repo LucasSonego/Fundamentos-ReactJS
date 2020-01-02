@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "babel-loader": "^8.0.6",
+    "file-loader": "^5.0.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
