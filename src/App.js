@@ -1,15 +1,10 @@
 import React from "react";
 
 import "./App.css";
-import profile from "./assets/gnome.jpg";
+import TechListF from "./components/TeckListF";
 
 function App() {
-  return (
-    <>
-      <h1>Hello World!</h1>
-      <img src={profile} width="200" />
-    </>
-  );
+  return <TechListF list />;
 }
 
 export default App;
